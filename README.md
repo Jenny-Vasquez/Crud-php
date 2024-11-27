@@ -17,24 +17,31 @@ Este proyecto se ha diseñado para aprender y practicar los fundamentos de PHP a
 1. **Listar Pokémon:**
    - Muestra todos los Pokémon registrados en una tabla.
    - Incluye acciones de editar y eliminar.
+     ![imagen1](images/index1.png)
+     ![imagen2](images/index.png)
 
 2. **Agregar Pokémon:**
    - Formulario para agregar un nuevo Pokémon con campos:
      - Nombre
      - Tipo
-     - Nivel
+     - Nivel images
+       ![imagen2](images/create.png)
 
 3. **Editar Pokémon:**
    - Permite actualizar los datos de un Pokémon.
    - Carga un formulario pre-rellenado con los datos actuales.
+     ![imagen2](images/update.png)
+
 
 4. **Eliminar Pokémon:**
    - Elimina un Pokémon de la base de datos.
    - Incluye una ventana de confirmación para evitar eliminaciones accidentales.
+      ![imagen2](images/delete.png)
 
 5. **Mensajes de Éxito:**
      - Muestra notificaciones después de realizar una acción, como:
      - Pokémon eliminado.
+       ![imagen2](images/delete1.png)
 
 ---
 
@@ -47,7 +54,7 @@ Para desarrollar este proyecto utilice:
   
 2. **Iniciar Servicios:**
  **Apache** y **MySQL**.
-imagen
+ ![imagen2](images/xamp.png)
 
 3. **Configurar la Carpeta del Proyecto:**
    - Colocamos el proyecto en `C:/xampp/htdocs/crud-pokemon/`.
